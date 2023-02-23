@@ -1,0 +1,2 @@
+# TestAuthenticationRESTApp
+Spring Boot Test Project for CustomAuthenticationToken and CustomAuthenticationProvider
